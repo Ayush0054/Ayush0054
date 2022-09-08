@@ -1,16 +1,28 @@
-### Hi there 👋
+### hello Ayush Jha there
 
-<!--
-**Ayush0054/Ayush0054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🌱 I’m currently learning ,exploring and working on these things 👇👇
+                 -> Javascript
+                 -> Tailwind css
+                 -> Data structure and algorithm in c++
+                 -> Figma
+                 -> Open source
+                 -> and Some frameworks
+                 
+   In future /after some time i will going to explore more tech ,examples like
+                                              ->  Artificial Intelligence and Machine Learning
+                                              ->  Blockchain devlopement
+                                              ->  Devops
+                                              ->  and more
+                                              
+I Tweet daily about my work on regular basis and currently doing #100DaysOfCodeChallenge              
+
+Apart from that i am also going to explore 
+                              Content writing/creating
+                              Developer relation
+                              Startups/online businesses
+                              
+About my education :
+i am currently a pre final year student of computer science 
+                             
