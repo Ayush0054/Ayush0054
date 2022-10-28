@@ -32,9 +32,9 @@
 <p><a href="https://www.buymeacoffee.com/ayush5apriM"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayush5apriM" /></a></p><br><br>
 
 <br>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush0054&show_icons=true&locale=en&layout=compact" alt="ayush0054" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush0054&show_icons=true&locale=en&layout=compact" alt="ayush0054" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush0054&show_icons=true&locale=en" alt="ayush0054" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush0054&show_icons=true&locale=en" alt="ayush0054" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush0054&" alt="ayush0054" /></p> -->
 
