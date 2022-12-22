@@ -6,17 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/Ayush_0_0_5" target="blank"><img src="https://img.shields.io/twitter/follow/Ayush_0_0_5?logo=twitter&style=for-the-badge" alt="Ayush_0_0_5" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, Js Frameworks,OpenSource,Figma,Typescript,Tailwind,HTMl,CSS,Data Structures and Algorithms in C++.**
+- 🌱 I’m Inspiring full stack web /web3 developer.**
 
-- In future /after some time i will going to explore more tech ,examples like : Artificial Intelligence and Machine Learning, Blockchain devlopement, Devops, and more.
+-Currently learning and building projects in both frontend and backend, also learning some web3 and contributing in  open source 
 
 - I Tweet daily about my work on regular basis and currently doing #100DaysOfCodeChallenge
 
-- Apart from that i am also going to explore : Content writing/creating, Developer relation, Startups/online businesses.
-
 - About my education : I am currently a pre final year student of computer science
 
-- ⚡ Fun fact **I think, i can do wonders with Tech**
+- ⚡ Fun fact **Tech is interesting ,when you explore as much as you can**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
