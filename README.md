@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate Developer from India</h3>
+<div align="right" >
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
+<a     href="https://dribbble.com/rbogdan">credit</a>
+ </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush0054&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush0054" /> </p>
+<!-- <a  align="left"   href="https://dribbble.com/rbogdan">credit</a> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayush0054" alt="Ayush0054" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/Ayush_0_0_5" target="blank"><img src="https://img.shields.io/twitter/follow/Ayush_0_0_5?logo=twitter&style=for-the-badge" alt="Ayush_0_0_5" /></a> </p>
 
-- 🌱 I’m Inspiring full stack web /web3 developer.**
+- 🌱 Aspiring full stack web /web3 developer.**
 
 - Currently learning and building projects in both frontend and backend, also learning some web3 and contributing in  open source 
 
@@ -30,7 +35,7 @@
 <p><a href="https://www.buymeacoffee.com/ayush5apriM"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayush5apriM" /></a></p><br><br>
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush0054&show_icons=true&locale=en&layout=compact" alt="ayush0054" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush0054&show_icons=true&locale=en&layout=compact" alt="ayush0054" /></p>
  
 <!-- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div> -->
 <!-- <p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p> -->
