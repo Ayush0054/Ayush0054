@@ -14,8 +14,7 @@
 - 🌱 Aspiring full stack web /web3 developer.**
 
 - Currently learning and building projects in both frontend and backend, also learning some web3 and contributing in  open source 
-
-- I Tweet daily about my work on regular basis and currently doing #100DaysOfCodeChallenge
+- ping me on twitter for connection
 
 - About my education : I am currently a pre final year student of computer science
 
