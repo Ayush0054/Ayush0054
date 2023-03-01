@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/Ayush_0_0_5" target="blank"><img src="https://img.shields.io/twitter/follow/Ayush_0_0_5?logo=twitter&style=for-the-badge" alt="Ayush_0_0_5" /></a> </p>
 
-- 🌱 Aspiring full stack web /web3 developer.**
+- 🌱 Aspiring software developer.**
 
 - Currently learning and building projects in both frontend and backend, also learning some web3 and contributing in  open source 
 - ping me on twitter for connection
