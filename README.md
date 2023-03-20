@@ -33,7 +33,32 @@
 <p><a href="https://www.buymeacoffee.com/ayush5apriM"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayush5apriM" /></a></p>
 
 
-<!-- <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush0054&show_icons=true&locale=en&layout=compact" alt="ayush0054" /></p>
-  -->
+# ⚙️ GitHub Analytics
+<br />
+<table>
+  <tr>
+    <td>
+      <img height="190" src="https://github-readme-stats.vercel.app/api?username=Ayush0054&show_icons=true&theme=dark" />
+    </td>
+    <td>
+      <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush0054&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush0054&layout=compact&theme=dark" alt="Ayush0054"/></p>
+</div>
+
+<br />
+
+# 📈 Contribution Graph  
+  
+ <br />
+
+<!--  [![Ayush Jha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ayush0054&&theme=xcode)](https://github.com/Ayush0054) -->
+[![Arun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayush0054&bg_color=0d1117&color=616090&line=3b3b3b&point=3e3c3c&area=true&hide_border=true)](https://github.com/Ayush0054)
+
+ </div>
 
 
