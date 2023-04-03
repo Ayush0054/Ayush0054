@@ -58,7 +58,7 @@
  <br />
 
 <!--  [![Ayush Jha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ayush0054&&theme=xcode)](https://github.com/Ayush0054) -->
-[![Arun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayush0054&bg_color=0d1117&color=616090&line=3b3b3b&point=3e3c3c&area=true&hide_border=true)](https://github.com/Ayush0054)
+[![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayush0054&bg_color=0d1117&color=616090&line=3b3b3b&point=3e3c3c&area=true&hide_border=true)](https://github.com/Ayush0054)
 
  </div>
 
