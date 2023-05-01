@@ -11,23 +11,21 @@
 - ping me on twitter for connection
 
 - About my education : I am currently a pre final year student of computer science
-- Some projects:
+- projects:
 - https://github.com/Ayush0054/football-social
 - https://github.com/Ayush0054/blog-website
 - https://github.com/Ayush0054/LinkedIn-Clone
 - https://github.com/Ayush0054/Thoughts-SmallNote-App
-- https://github.com/Ayush0054/octern-assignment
 - https://github.com/Ayush0054/mlh-smart-city-1
-
+- https://github.com/Ayush0054/octern-assignment
 - Incomplete projects:
-- https://github.com/Ayush0054/college-collab 
 - https://github.com/Ayush0054/restaurant-dashboard
+- https://github.com/Ayush0054/college-collab 
 - https://github.com/Ayush0054/bucket-card
 - https://github.com/Ayush0054/mobile-app
 - https://github.com/Ayush0054/docsy
 - https://github.com/Ayush0054/convo
 - ⚡ Fun fact **Tech is interesting ,when you explore as much as you can**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -61,6 +59,13 @@
 </div>
 
 <br />
+
+# 📈 Contribution Graph  
+  
+ <br />
+
+<!--  [![Ayush Jha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ayush0054&&theme=xcode)](https://github.com/Ayush0054) -->
+[![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayush0054&bg_color=0d1117&color=616090&line=3b3b3b&point=3e3c3c&area=true&hide_border=true)](https://github.com/Ayush0054)
 
  </div>
 
