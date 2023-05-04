@@ -25,6 +25,7 @@
 - https://github.com/Ayush0054/mobile-app
 - https://github.com/Ayush0054/docsy
 - https://github.com/Ayush0054/convo
+- https://github.com/Ayush0054/EthForALL
 - ⚡ Fun fact **Tech is interesting ,when you explore as much as you can**
 
 <h3 align="left">Connect with me:</h3>
