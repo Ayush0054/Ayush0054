@@ -8,6 +8,7 @@
 - 🌱 Aspiring software developer.**
 
 - Currently learning and building projects  and contributing in  open source 
+- intern at www.getdevkit.com 
 - ping me on twitter for connection
 
 - About my education : I am currently a pre final year student of computer science
