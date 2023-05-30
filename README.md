@@ -20,7 +20,6 @@
 - https://github.com/Ayush0054/mlh-smart-city-1
 - https://github.com/Ayush0054/octern-assignment
 - Incomplete projects:
-- https://github.com/Ayush0054/restaurant-dashboard
 - https://github.com/Ayush0054/college-collab 
 - https://github.com/Ayush0054/bucket-card
 - https://github.com/Ayush0054/mobile-app
