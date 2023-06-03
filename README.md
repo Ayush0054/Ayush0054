@@ -19,12 +19,13 @@
 - https://github.com/Ayush0054/Thoughts-SmallNote-App
 - https://github.com/Ayush0054/mlh-smart-city-1
 - https://github.com/Ayush0054/octern-assignment
+- on progress:
+- https://github.com/Ayush0054/bucket-card 60% completed
+- https://github.com/Ayush0054/convo       10% completed  
+- https://github.com/Ayush0054/AI-wildin    just started
 - Incomplete projects:
 - https://github.com/Ayush0054/college-collab 
-- https://github.com/Ayush0054/bucket-card
 - https://github.com/Ayush0054/mobile-app
-- https://github.com/Ayush0054/docsy
-- https://github.com/Ayush0054/convo
 - https://github.com/Ayush0054/EthForALL
 - ⚡ Fun fact **Tech is interesting ,when you explore as much as you can**
 
