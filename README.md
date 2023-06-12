@@ -21,7 +21,7 @@
 - https://github.com/Ayush0054/octern-assignment
 - on progress:
 - https://github.com/Ayush0054/bucket-card 60% completed
-- https://github.com/Ayush0054/convo       10% completed  
+- https://github.com/Ayush0054/convo       15% completed  
 - https://github.com/Ayush0054/AI-wildin    just started
 - Incomplete projects:
 - https://github.com/Ayush0054/college-collab 
