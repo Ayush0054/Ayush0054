@@ -7,7 +7,7 @@
 
 - 🌱 Aspiring software developer.**
 
-- Currently learning and building projects  and contributing in  open source 
+- Currently learning and building projects 
 - cooking at www.getdevkit.com 
 - ping me on twitter for connection
 
