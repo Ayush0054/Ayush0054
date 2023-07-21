@@ -12,21 +12,30 @@
 - ping me on twitter for connection
 
 - About my education : I am currently a pre final year student of computer science
+  
 - projects:
-- https://github.com/Ayush0054/football-social
 - https://github.com/Ayush0054/blog-website
-- https://github.com/Ayush0054/LinkedIn-Clone
 - https://github.com/Ayush0054/Thoughts-SmallNote-App
-- https://github.com/Ayush0054/mlh-smart-city-1
+- https://github.com/Ayush0054/LinkedIn-Clone
 - https://github.com/Ayush0054/octern-assignment
-- on progress:
+- https://github.com/Ayush0054/football-social
+- https://github.com/Ayush0054/mlh-smart-city-1
+- https://github.com/Ayush0054/convo
+  
+- pending projects :
 - https://github.com/Ayush0054/bucket-card 60% completed
-- https://github.com/Ayush0054/convo       90% completed  
 - https://github.com/Ayush0054/AI-wildin    just started
-- Incomplete projects:
-- https://github.com/Ayush0054/college-collab 
+- https://github.com/Ayush0054/flutter-app   just started
+- https://github.com/Ayush0054/ai-something
 - https://github.com/Ayush0054/mobile-app
+- https://github.com/Ayush0054/college-collab 
 - https://github.com/Ayush0054/EthForALL
+
+- Dsa:
+- https://github.com/Ayush0054/Dsa-reboot
+- https://github.com/Ayush0054/DSA-NEW
+
+ 
 - ⚡ Fun fact **Tech is interesting ,when you explore as much as you can**
 
 <h3 align="left">Connect with me:</h3>
