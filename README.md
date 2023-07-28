@@ -21,13 +21,13 @@
 - https://github.com/Ayush0054/football-social
 - https://github.com/Ayush0054/mlh-smart-city-1
 - https://github.com/Ayush0054/convo
+- https://github.com/Ayush0054/flutter-app  (1st version completed)
   
 - pending projects :
 - https://github.com/Ayush0054/bucket-card 60% completed
 - https://github.com/Ayush0054/AI-wildin    just started
-- https://github.com/Ayush0054/flutter-app   just started
 - https://github.com/Ayush0054/ai-something
-- https://github.com/Ayush0054/mobile-app
+- https://github.com/Ayush0054/mobile-app  (react native)
 - https://github.com/Ayush0054/college-collab 
 - https://github.com/Ayush0054/EthForALL
 
