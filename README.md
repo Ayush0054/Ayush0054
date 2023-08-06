@@ -23,10 +23,13 @@
 - https://github.com/Ayush0054/convo
 - https://github.com/Ayush0054/flutter-app  (1st version completed)
   
-- pending projects :
-- https://github.com/Ayush0054/bucket-card 60% completed
+- pending projects(priority list) :
+- https://github.com/Ayush0054/what-today
+- https://github.com/Ayush0054/video-downloader
+- https://github.com/Ayush0054/gym-app
+- https://github.com/Ayush0054/app-expo (rn)
+- https://github.com/Ayush0054/bucket-card (60% completed)
 - https://github.com/Ayush0054/AI-wildin    just started
-- https://github.com/Ayush0054/ai-something
 - https://github.com/Ayush0054/mobile-app  (react native)
 - https://github.com/Ayush0054/college-collab 
 - https://github.com/Ayush0054/EthForALL
