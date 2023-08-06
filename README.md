@@ -21,7 +21,7 @@
 - https://github.com/Ayush0054/football-social
 - https://github.com/Ayush0054/mlh-smart-city-1
 - https://github.com/Ayush0054/convo
-- https://github.com/Ayush0054/flutter-app  (1st version completed)
+- https://github.com/Ayush0054/flutter-app  (playing with flutter)
   
 - pending projects(priority list) :
 - https://github.com/Ayush0054/what-today
