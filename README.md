@@ -11,33 +11,7 @@
 - cooking at www.getdevkit.com 
 - ping me on twitter for connection
 
-- About my education : I am currently a pre final year student of computer science
-  
-- projects:
-- https://github.com/Ayush0054/blog-website
-- https://github.com/Ayush0054/Thoughts-SmallNote-App
-- https://github.com/Ayush0054/LinkedIn-Clone
-- https://github.com/Ayush0054/octern-assignment
-- https://github.com/Ayush0054/football-social
-- https://github.com/Ayush0054/mlh-smart-city-1
-- https://github.com/Ayush0054/convo
-- https://github.com/Ayush0054/flutter-app  (playing with flutter)
-  
-- pending projects(priority list) :
-- https://github.com/Ayush0054/what-today
-- https://github.com/Ayush0054/video-downloader
-- https://github.com/Ayush0054/gym-app
-- https://github.com/Ayush0054/app-expo (rn)
-- https://github.com/Ayush0054/bucket-card (60% completed)
-- https://github.com/Ayush0054/AI-wildin    just started
-- https://github.com/Ayush0054/mobile-app  (react native)
-- https://github.com/Ayush0054/college-collab 
-- https://github.com/Ayush0054/EthForALL
-
-- Dsa:
-- https://github.com/Ayush0054/Dsa-reboot
-- https://github.com/Ayush0054/DSA-NEW
-
+- About my education : I am currently a pre final year student of computer science 
  
 - ⚡ Fun fact **Tech is interesting ,when you explore as much as you can**
 
