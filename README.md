@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/Ayush_0_0_5" target="blank"><img src="https://img.shields.io/twitter/follow/Ayush_0_0_5?logo=twitter&style=for-the-badge" alt="Ayush_0_0_5" /></a> </p>
 
-- 🌱 Aspiring software developer.**
-
-- Currently learning and building projects 
+- 🌱 building things.**
 - ex sde-intern at www.getdevkit.com 
 - ping me on twitter for connection
 
