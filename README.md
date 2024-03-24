@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/Ayush_0_0_5" target="blank"><img src="https://img.shields.io/twitter/follow/Ayush_0_0_5?logo=twitter&style=for-the-badge" alt="Ayush_0_0_5" /></a> </p>
 
 - 🌱 building things.**
-- ex sde-intern at www.getdevkit.com 
+- https://www.fiverr.com/s/yP4dRq
 - ping me on twitter for connection
 
 - About my education : I am currently a pre final year student of computer science 
