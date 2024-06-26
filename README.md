@@ -8,8 +8,7 @@
 - 🌱 building things.**
 - https://www.fiverr.com/s/yP4dRq
 - ping me on twitter for connection
-
-- About my education : I am currently a pre final year student of computer science 
+- my all work : https://www.ayuss.co
  
 - ⚡ Fun fact **Tech is interesting ,when you explore as much as you can**
 
