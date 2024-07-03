@@ -5,12 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/Ayush_0_0_5" target="blank"><img src="https://img.shields.io/twitter/follow/Ayush_0_0_5?logo=twitter&style=for-the-badge" alt="Ayush_0_0_5" /></a> </p>
 
-- 🌱 building things.**
+
 - [https://www.fiverr.com/s/yP4dRq](https://www.fiverr.com/s/XL02wRG)
-- ping me on twitter for connection
-- my all work : https://www.ayuss.co
+
  
-- ⚡ Fun fact **Tech is interesting ,when you explore as much as you can**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
