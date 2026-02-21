@@ -1,2 +1,2 @@
-studium
-email : ayush5april@gmail.com
+- studium
+- email : ayush5april@gmail.com
