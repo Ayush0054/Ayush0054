@@ -1,2 +1,2 @@
-- studium
+- do what you love
 - email : ayush5april@gmail.com
