@@ -1,2 +1,2 @@
-ayush5april@gmail.com
-send me a bottle of tequilla
+- ayush5april@gmail.com
+- send me a bottle of tequilla
