@@ -1,3 +1,1 @@
-- ayush5april@gmail.com
-- send me a bottle of tequilla
-- slow is smooth and smooth is fast
+slow is smooth and smooth is fast
